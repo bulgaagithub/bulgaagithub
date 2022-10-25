@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bulgaagithub
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning machine learning and docker & k8s.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 💞️ I’m looking to collaborate on machine learning projects and next generation new technologies.
 - 📫 How to reach me erdenebulgan.deersoft@gmail.com
 
 <!---
