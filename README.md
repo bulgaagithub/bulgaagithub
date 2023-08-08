@@ -1,8 +1,7 @@
 # Hey Everyone 👋
 Hi. I'm Erdenebulgan, a software developer (+5 years) who likes to work with JavaScript(Typescript)/CSS/HTML/React.
 
-<h1 align="center">Hey 👋, I'm Erdenebulgan</h1>
-<h3 align="center">a software developer (+5 years) who likes to work with JavaScript(Typescript)/CSS/HTML/React.</h3>
+<img align="right" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=996&t=st=1691500439~exp=1691501039~hmac=16db75ddfffa70918a70ad2ef73289617f5e5b5f94dd2b8bbf0c9889a2659eee">
 
 * Web front-end developer (TypeScript/JavaScript, React.js/Next.js/Vercel, React Native,
   Node.js, PWA, GraphQL, TDD)
@@ -20,8 +19,6 @@ These days I'm passionate about machine learning technologies and mainly focusin
 * ⚡ Dev motto: First do it, then do it right, then do it better.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulgaagithub&label=Profile%20views&color=0e75b6&style=flat" alt="bulgaagithub" /> </p>
-
-<img align="right" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=996&t=st=1691500439~exp=1691501039~hmac=16db75ddfffa70918a70ad2ef73289617f5e5b5f94dd2b8bbf0c9889a2659eee">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
