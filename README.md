@@ -18,6 +18,7 @@ These days I'm passionate about machine learning technologies and mainly focusin
 * 😄 Pronouns: He/His
 * ⚡ Dev motto: First do it, then do it right, then do it better.
 
+<p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulgaagithub&label=Profile%20views&color=0e75b6&style=flat" alt="bulgaagithub"/> </p>
 
 <h3 align="left">Connect with me:</h3>
