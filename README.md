@@ -10,7 +10,7 @@ In the past years, I've been working with Mobicom Corporation's Outsourcing Deve
 These days I'm passionate about machine learning technologies and mainly focusing on becoming a machine learning engineer.
 
 <p dir="auto">
-  <animated-image style="float: right; width: 400px; max-height: 200px"><img align="right" height="200" style="max-weight:100%; display: inline-block;" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=996&t=st=1691500439~exp=1691501039~hmac=16db75ddfffa70918a70ad2ef73289617f5e5b5f94dd2b8bbf0c9889a2659eee"></animated-image></p>
+  <animated-image style="float: right; width: 400px; max-height: 256px"><img align="right" height="256" style="max-weight:100%; display: inline-block;" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=996&t=st=1691500439~exp=1691501039~hmac=16db75ddfffa70918a70ad2ef73289617f5e5b5f94dd2b8bbf0c9889a2659eee"></animated-image></p>
 
 <ul dir="auto">
   <li>👀 I’m interested in machine learning.</li>
