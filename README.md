@@ -1,8 +1,6 @@
 # Hey Everyone 👋
 Hi. I'm Erdenebulgan, a software developer (+5 years) who likes to work with JavaScript(Typescript)/CSS/HTML/React.
 
-<img align="right" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=996&t=st=1691500439~exp=1691501039~hmac=16db75ddfffa70918a70ad2ef73289617f5e5b5f94dd2b8bbf0c9889a2659eee">
-
 * Web front-end developer (TypeScript/JavaScript, React.js/Next.js/Vercel, React Native,
   Node.js, PWA, GraphQL, TDD)
 * Mobile Application developer (Flutter, Dart, React Native, Java (Android))
@@ -10,6 +8,8 @@ Hi. I'm Erdenebulgan, a software developer (+5 years) who likes to work with Jav
 In the past years, I've been working with Mobicom Corporation's Outsourcing Development team on web front-end development, web performance optimization, best practices in modern web development (React.js & Python(FastAPI)), and UX improvements.
 
 These days I'm passionate about machine learning technologies and mainly focusing on becoming a machine learning engineer.
+
+<img align="right" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=996&t=st=1691500439~exp=1691501039~hmac=16db75ddfffa70918a70ad2ef73289617f5e5b5f94dd2b8bbf0c9889a2659eee">
 
 * 👀 I’m interested in machine learning.
 * 🌱 I’m currently learning machine learning and docker & k8s & AWS (DevOps, SysOps).
